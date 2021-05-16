@@ -1,2 +1,2 @@
-# kicker
+# Kicker Revival
 Kicker revival stuff - binaries, sources, articles ...
