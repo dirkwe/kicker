@@ -1,4 +1,4 @@
-# Willkommen beim  KICKER Revival Projekt
+# Willkommen beim  KICKER REVIVAL PROJECT
 
 Hier dreht sich alles um die (Weiter-) Entwicklung des Shareware Spiels "KICKER", welches zwischen 1988 und 1991 für den Atari ST von Dirk Weigand entwickelt wurde, und noch heute in der Original-Version auf ST Emulatoren wie [Hatari](https://hatari.tuxfamily.org/download.html) unter Windows, Linux oder MacOS gespielt werden kann.
 
